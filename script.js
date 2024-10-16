@@ -22,7 +22,7 @@ btnAddTarefa.addEventListener('click',function(){
     li.appendChild(botaoRemover);
     listaTarefa.appendChild(li);
 
-    novaTarefa.value = "";
+    novatarefa.value = "";
 
    }
 
